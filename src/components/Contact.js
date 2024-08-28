@@ -18,13 +18,13 @@ function Contact() {
 
       <Section>
         <Text className="text-lg">
-          [<span className="text-pink">Email</span>] (<Link targetBlank href="mailto:ayrton.parkinson1@gmail.com">mailto:ayrton.parkinson1@gmail.com</Link>)
+          [<span className="text-pink">Email</span>] (<Link targetBlank href="mailto:ayrton.musabinsohail567@gmail.com">mailto:musabinsohail567@gmail.com</Link>)
         </Text>
         <Text className="text-lg">
-          [<span className="text-pink">Github</span>] (<Link targetBlank href="https://github.com/ayrt-n">https://github.com/ayrt-n</Link>)
+          [<span className="text-pink">Github</span>] (<Link targetBlank href="https://github.com/musa-sohail">https://github.com/musa-sohail</Link>)
         </Text>
         <Text className="text-lg">
-          [<span className="text-pink">LinkedIn</span>] (<Link targetBlank href="https://www.linkedin.com/in/ayrton-parkinson-ab6015ba/">https://www.linkedin.com/in/ayrton-parkinson-ab6015ba/</Link>)
+          [<span className="text-pink">LinkedIn</span>] (<Link targetBlank href="https://www.linkedin.com/in/muhammad-musa-1743171b9/">https://www.linkedin.com/in/muhammad-musa-1743171b9/</Link>)
         </Text>
       </Section>
     </div>

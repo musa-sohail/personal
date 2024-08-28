@@ -12,7 +12,7 @@ const index = { name: 'index', type: 'file', extension: 'css', component: <Index
 const contact = { name: 'Contact', type: 'file', extension: 'md', component: <Contact /> }
 
 const directory = [{
-  name: 'ayrton_parkinson_portfolio',
+  name: 'Muhammad Musa - Portfolio',
   type: 'folder',
   children: [
     {
